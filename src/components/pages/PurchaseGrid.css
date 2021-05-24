@@ -1,0 +1,11 @@
+ .textField {
+        width: '90%';
+        margin-Left: 'auto';
+        margin-Right: 'auto';           
+        padding-Bottom: 0;
+        margin-Top: 0;
+        font-Weight: 500;
+    }
+    .input{
+        color: 'black'
+    }
